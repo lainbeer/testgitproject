@@ -1,0 +1,7 @@
+
+========
+#001
+========
+$ mkdir testing
+$ git status
+>> "testing" 폴더 만 만들었을 때는 tracking이 되지 않는다. Git 특징 인듯 그래서 이렇게 파일 만든다. 이야~~

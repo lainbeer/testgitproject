@@ -11,6 +11,7 @@
 int main ( void )
 {
   /* Insert commment!! */
+  /* */
 
   printf ( "Version: %d.%d.%s\r\n", test_vsn_major, test_vsn_minor, test_vsn_string ) ;
 
